@@ -42,6 +42,6 @@ A SQL project that cleans a global tech layoffs dataset and then explores it to 
 3. Run `data_cleaning_project.sql`, then `data_cleaning_project2.sql`
 
 ## Author
-Himani Pandey | LinkedIn
-Himani Pandey | [LinkedIn](https://www.linkedin.com/in/himanipandey18)# world-layoffs-sql-analysis
+Himani Pandey | [LinkedIn](https://www.linkedin.com/in/himanipandey18) 
+# world-layoffs-sql-analysis
 A SQL project that cleans a global tech layoffs dataset and then explores it to find which companies, industries and countries were hit hardest.
